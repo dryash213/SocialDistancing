@@ -31,7 +31,5 @@
 ## Contributors:
 
 Team Name: Team 07
-
+* [Yash Prem Kushwaha](https://github.com/dryash213/)
 * [Romit Ranjan Singh](https://github.com/RomitSingh1999)
-* [Saurabh Singh](https://github.com/)
-* [Yash Prem Kushwaha]()
